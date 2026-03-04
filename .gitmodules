@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:asudenur776/asudenur776.github.io.git
+	branch = main
